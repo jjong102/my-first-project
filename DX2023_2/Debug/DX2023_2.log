@@ -1,0 +1,5 @@
+﻿  just_practice.cpp
+C:\Users\user\source\repos\Pr\DX2023_2\just_practice.cpp(80,9): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\user\source\repos\Pr\DX2023_2\just_practice.cpp(80,16): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\user\source\repos\Pr\DX2023_2\just_practice.cpp(80,16): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  DX2023_2.vcxproj -> C:\Users\user\source\repos\Pr\Debug\DS2023_2.exe
